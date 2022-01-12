@@ -15,7 +15,7 @@ function App() {
         <li>Cindy  (11)</li>
       </ul>
      </div>
-     <div style={{marginLeft:'60px',margin:'2px',height:'100%',width:'300px'}}>
+     <div style={{marginLeft:'50px',margin:'2px',height:'100%',width:'300px'}}>
      <ul className="App">
      <hl><h4>CGMD Inventory</h4></hl>
         <li>Adele</li>
